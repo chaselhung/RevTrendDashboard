@@ -21,7 +21,7 @@
 ## 使用方式 🚀
 
 1. **克隆该项目**：  
-   git clone https://github.com/chaselhung/RevenueTrendDashboard.git  
+   git clone https://github.com/chaselhung/RevTrendDashboard.git  
 
 2. **打开 index.html 文件，在浏览器中查看🌍。**  
 
