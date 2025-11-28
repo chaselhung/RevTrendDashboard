@@ -40,5 +40,8 @@ npm install
 ## License 📝
 
 该项目采用 MIT License。
+
+## 示例
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/22c2a05d-547f-4354-850a-cbcf875095d2" />
 
